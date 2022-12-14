@@ -8,3 +8,13 @@ Los  formularios en excel tienen como objetivo facilitar la captura de informaci
 
 ![image](https://user-images.githubusercontent.com/72534486/207205771-61148c47-ceaa-4167-b16f-111866cdafca.png)
 
+Completar base de datos
+
+Sintaxis Buscarv
+valor_buscar : que valor a buscar
+matriz tabla: donde vamos a buscar
+indicdores columnas : en que columna de la matriz se encuentra el dato que queremos
+rango :
+verdedero busqueda aproximada
+falso busqueda exacta 
+
