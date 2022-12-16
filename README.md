@@ -21,3 +21,8 @@ falso busqueda exacta
 POWER PIVOT
 power pivot es una tecnologia de modelado de datos que perite crear modelos, establecer relaciones y crear calculos
 con esa herramienta de gra tamaño, todo enun entorno de alto rendimiento .
+
+Extraccion palabras clava 
+relleno rapido
+formula: Derecha e IZQUIERDA
+Texto en columas
