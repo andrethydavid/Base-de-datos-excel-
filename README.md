@@ -25,4 +25,3 @@ con esa herramienta de gra tamaño, todo enun entorno de alto rendimiento .
 Extraccion palabras clava 
 relleno rapido
 formula: Derecha e IZQUIERDA
-Texto en columas
