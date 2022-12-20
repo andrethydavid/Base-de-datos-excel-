@@ -25,3 +25,10 @@ con esa herramienta de gra tamaño, todo enun entorno de alto rendimiento .
 Extraccion palabras clava 
 relleno rapido
 formula: Derecha e IZQUIERDA
+
+Datos de num_de_caracteres 
+
+Es opcional 
+debe se mayor o igual que cero
+si num_de_caracteristicas es mayor que la logitud del texto; DERECHA devolvera todo el texto
+si omite num_de_caracteres, se calculara como 1
