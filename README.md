@@ -31,4 +31,6 @@ Datos de num_de_caracteres
 Es opcional 
 debe se mayor o igual que cero
 si num_de_caracteristicas es mayor que la logitud del texto; DERECHA devolvera todo el texto
-si omite num_de_caracteres, se calculara como 1
+
+
+si omite num_de_caracteres, se calculara como ![image](https://user-images.githubusercontent.com/72534486/208558123-e2490f1e-4df9-4ecc-9b7a-9ce600b1ad3d.png)
