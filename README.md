@@ -45,6 +45,19 @@ Eliminar errores: seleccionar columna fila o tabla (Según la necesidad) → Pul
 
 Corregir errores de texto: Seleccionar fila, columna o tabla (según el caso) → ctrl + B → Pestaña Reemplazar → En buscar colocar la la palabra o texto que se quiere corregir y en reemplazar con la palabra o texto corregida → Reemplazar todo. 
 
+Vincular Excels
+
+En excel podemos vinvula hojas de calculo y libros gracias a la herramienta vinulos 
+con los vinculos en excel podras copiar la informacion de una hoja de calculo a aotra hoja del mismo o distinto libro, de tal forma que si modificamos el dato de la hoja de origen cambiara la hoja de calculo de destino.
+datos importantes para no romper  el vinculo
+
+* los excel vinculados para no romper el vinculo.
+* no modificar el nombre del archivo ni la ubicacionm 
+
+![image](https://user-images.githubusercontent.com/72534486/209602447-0e8314ba-3c5f-4b7c-8645-992fb0e4f4ab.png)
+
+
+
 
 
 
