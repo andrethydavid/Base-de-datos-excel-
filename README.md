@@ -57,7 +57,17 @@ n
 
 ![image](https://user-images.githubusercontent.com/72534486/209602447-0e8314ba-3c5f-4b7c-8645-992fb0e4f4ab.png)
 
-Completar base de datos 
+Completar base de datos
+ lo haremos con dos  alternativas 
+ Bucar v
+ power pivot
+ 
+ Buscar V
+ Es una de las funciones mas utiles de excel y pertenece a las funciones de busqueda y de referencia 
+ ![image](https://user-images.githubusercontent.com/72534486/209888878-f99385bc-3642-4420-b534-6bf614f3bf48.png)
+
+Importar datos
+
 
 
 
