@@ -68,6 +68,15 @@ Completar base de datos
 
 Importar datos
 
+Análisis de datos con Fórmula .Si
+
+No todo en el excel  son tablas dinamicas, cierto es que nos ayudan mucho de llegar al mismo resultado 
+formulas condicionales
+
+sumar.si
+promedio.si
+contar.si
+
 
 
 
